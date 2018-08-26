@@ -1,0 +1,2 @@
+# FakeWiki
+A Fake Wikipedia
